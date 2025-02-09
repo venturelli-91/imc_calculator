@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+.table {
+}
+
+.button {
+	@apply text-white font-poppins font-bold w-full sm:w-44 md:w-44 lg:w-44 py-3 bg-purple-700 rounded-full transition-all text-center;
+}
+
+.thead {
+	@apply bg-slate-100 font-extralight text-left text-pink-500;
+}
+
+.info {
+	@apply pl-6 pb-1;
+}
+
+.poppins-semibold {
+	font-family: "Poppins", sans-serif;
+	font-weight: 600;
+	font-style: normal;
+}
+
+.input {
+	@apply p-2 rounded-lg text-gray-700 border-2 border-pink-400 font-poppins focus:ring-2 ring-pink-400 focus:outline-none;
+}
+
+.container-info {
+	@apply w-full sm:w-1/2 flex justify-end p-6;
+}
+
+.imc {
+	@apply flex justify-center items-center w-full top-0 left-0 absolute mt-96
+	text-4xl font-extrabold text-purple-800;
+}
+
+.container-display {
+	@apply w-full flex justify-between max-w-6xl gap-52 mx-auto;
+}
+
+.full-container {
+	@apply w-full h-screen flex justify-center items-center;
+}
+
+.container-table {
+	@apply w-full sm:w-1/2 flex justify-center items-center p-6;
+}
+
+.table-display {
+	@apply w-full flex justify-center items-center p-6;
+}
+
+.table-container {
+	@apply w-full sm:w-1/2 flex flex-col justify-center items-center p-6;
+}
