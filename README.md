@@ -17,7 +17,12 @@ This project is an **IMC (Body Mass Index) Calculator** developed with **React**
 </div>
 
 ## Deploy:
-<img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" width="40" height="40" style="border-radius: 50%; background-color: white;"/>
+
+<a href="https://imc-calculator-liart.vercel.app/" target="_blank">
+  <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" width="40" height="40" style="border-radius: 50%; background-color: white;"/>
+</a>
+
+Acesse a aplicação diretamente: [IMC Calculator App](https://imc-calculator-two-iota.vercel.app/)
 
 ## How to Run the Project
 
@@ -57,9 +62,13 @@ This project is an **IMC (Body Mass Index) Calculator** developed with **React**
 - Accessibility: Built with accessibility in mind, including keyboard navigation and screen reader compatibility.
 
 ## Deployment
-The project is deployed online. You can access it here.
+
+A aplicação está disponível online através da Vercel.
+Acesse aqui: [IMC Calculator App](https://imc-calculator-two-iota.vercel.app/)
 
 ## Contributing
+
 Feel free to fork this repository and submit pull requests with improvements or fixes.
+
 
 
