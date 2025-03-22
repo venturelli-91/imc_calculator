@@ -16,7 +16,7 @@ This project is an **IMC (Body Mass Index) Calculator** developed with **React**
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
 </div>
 
-##Deploy:
+## Deploy:
 <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" width="40" height="40" style="border-radius: 50%; background-color: white;"/>
 
 ## How to Run the Project
@@ -61,4 +61,5 @@ The project is deployed online. You can access it here.
 
 ## Contributing
 Feel free to fork this repository and submit pull requests with improvements or fixes.
+
 
