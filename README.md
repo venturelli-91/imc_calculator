@@ -42,7 +42,7 @@ This project is an **IMC (Body Mass Index) Calculator** developed with **React**
 
 5. Access the app at http://localhost:3000.
 
-##Additional Features:
+## Additional Features:
 
 - IMC Categories: Displays the user's IMC category (Underweight, Normal, Overweight, Obese) based on the calculated value.
 
@@ -56,9 +56,9 @@ This project is an **IMC (Body Mass Index) Calculator** developed with **React**
 
 - Accessibility: Built with accessibility in mind, including keyboard navigation and screen reader compatibility.
 
-##Deployment
+## Deployment
 The project is deployed online. You can access it here.
 
-##Contributing
+## Contributing
 Feel free to fork this repository and submit pull requests with improvements or fixes.
 
