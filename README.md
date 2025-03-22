@@ -22,8 +22,6 @@ This project is an **IMC (Body Mass Index) Calculator** developed with **React**
   <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" width="40" height="40" style="border-radius: 50%; background-color: white;"/>
 </a>
 
-Acesse a aplicação diretamente: [IMC Calculator App](https://imc-calculator-two-iota.vercel.app/)
-
 ## How to Run the Project
 
 1. Clone this repository:
